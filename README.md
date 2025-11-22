@@ -54,11 +54,6 @@ This analysis is useful for:
 
 ---
 
-## 🚀 How to Use This Project
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/udemy-finance-analysis.git
-   cd udemy-finance-analysis
 
 
